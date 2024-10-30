@@ -1,0 +1,8 @@
+.tooltiptext{display:none; font-size:10px; font-weight: normal;background-color: #fff;
+    position: absolute;
+   
+    width: 300px;
+    left: 0;
+    padding: 10px;
+    border: 1px solid;}
+/*.hasTooltip{padding:20px}*/
